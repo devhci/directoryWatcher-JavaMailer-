@@ -14,7 +14,7 @@ public class SendMailTLS {
 	public  void send (String mess) {
  
 		final String username = "devendku";
-		final String password = "krishna";
+		final String password = "*******";
  
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
